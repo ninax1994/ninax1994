@@ -1,13 +1,14 @@
-## Hi there 👋
+## 🐱🐈🐱 Hello world 🐱🐈🐱
 
 
-**ninax1994/ninax1994** I am Nina and I just started with web development.
+**I am Nina and I just started with web development.**
 
-	![flowers](https://upload.wikimedia.org/wikipedia/commons/3/32/-_Flower_02_-.jpg)
- 
  🌱 I’m currently learning:
  1. HTML
  2. Javaskript
  3. Node.js
+
+  ![BYYK9851](https://github.com/user-attachments/assets/cd5b8e01-ec38-4aae-9755-56365e9ef4ef)
+
 
 
